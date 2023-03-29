@@ -56,7 +56,7 @@ function Navbar() {
               textDecoration: 'none',
             }}
           >
-            LOGO
+           JAYCHANDRA
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
@@ -131,7 +131,7 @@ function Navbar() {
           <Box sx={{ flexGrow: 0 }}>
             <Tooltip title="Open settings">
               <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
-                <Avatar alt="Remy Sharp" src="/static/images/avatar/2.jpg" />
+                <Avatar alt="Jaychandra" src="/static/images/avatar/2.jpg" />
               </IconButton>
             </Tooltip>
             <Menu
